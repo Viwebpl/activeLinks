@@ -1,0 +1,12 @@
+{
+    "name": "viwebpl/active-links",
+    "description": "Mini package for active links",
+    "authors": [
+        {
+            "name": "Viwebpl",
+            "email": "k.jedrusik@viweb.pl"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
